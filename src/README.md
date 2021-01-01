@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0q2e3p42kwo8ylqh?svg=true)](https://ci.appveyor.com/project/la-chispa/ajs-homework-5-methods)
